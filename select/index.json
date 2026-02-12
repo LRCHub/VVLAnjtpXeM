@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Stricken",
+  "base_artist": "Disturbed",
+  "createdAt": "2026-02-12T11:21:48.793168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stricken by Fate",
+      "artist": "Armored Saint",
+      "has_synced": true,
+      "path": "select/01_Stricken_by_Fate_Armored_Saint.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stricken Arise",
+      "artist": "Morbid Angel",
+      "has_synced": true,
+      "path": "select/02_Stricken_Arise_Morbid_Angel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stricken",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/03_Stricken_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stricken",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/04_Stricken_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stricken - Live",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/05_Stricken_-_Live_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stricken - Live",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/06_Stricken_-_Live_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stricken - Live at Red Rocks",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/07_Stricken_-_Live_at_Red_Rocks_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stricken - Live At The Riviera",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/08_Stricken_-_Live_At_The_Riviera_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stricken - Live at the Riviera",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/09_Stricken_-_Live_at_the_Riviera_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stricken",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/10_Stricken_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stricken (Live at Red Rocks)",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/11_Stricken_(Live_at_Red_Rocks)_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stricken (live)",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/12_Stricken_(live)_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stricken",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/13_Stricken_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stricken",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/14_Stricken_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stricken by Might",
+      "artist": "E-X-E",
+      "has_synced": false,
+      "path": "select/15_Stricken_by_Might_E-X-E.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Twice Stricken",
+      "artist": "Masayoshi Soken",
+      "has_synced": false,
+      "path": "select/16_Twice_Stricken_Masayoshi_Soken.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stricken",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/17_Stricken_Disturbed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stricken",
+      "artist": "Disturbed",
+      "has_synced": false,
+      "path": "select/pl_01_Stricken_Disturbed.txt"
+    }
+  ]
+}
